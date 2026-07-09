@@ -28,8 +28,7 @@ python main.py
 ## Screenshots
 
 ### Linear Linked List
-![Linear Linked List]
-(linear_linked_list.png)
+![Linear Linked List](linear_linked_list.png)
 
 ### Stack
 ![Stack](stack.png)
