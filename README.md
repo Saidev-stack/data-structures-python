@@ -24,3 +24,24 @@ python main.py
 ## Technologies
 - Python 3
 - Standard Python library only
+
+## Screenshots
+
+### Linear Linked List
+![Linear Linked List]
+(linear_linked_list.png)
+
+### Stack
+![Stack](stack.png)
+
+### Queue
+![Queue](queue.png)
+
+### Tree
+![Tree](tree.png)
+
+### BST Implementation
+![bst_implementation](bst_implementation.png)
+
+### Binary Search Tree
+![BST](bst.png)
