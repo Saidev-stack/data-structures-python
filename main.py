@@ -90,7 +90,7 @@ while answer.lower() == 'yes':
         try :
             choice = int(input("Would you please enter the DS number to be create : "))   
             
-            if choice in dict_linked_list:
+            if choice in dict_create:
                 break
             else:
                 print("Invlaide choice!")
